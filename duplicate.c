@@ -20,8 +20,9 @@ printf("\nDuplicate numbers found at location %d and %d ",i,j);
 }
 }
 }
-}
-if(flag==0)
+
+if(flag==0){
 printf("\n No duplicates found");
 return 0;
-
+}
+}
